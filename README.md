@@ -3,15 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Rebeca | CV</title>
+  
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
     <div class="header-container">
-      <img src="img/foto_perfil.jpg" alt="Foto de Rebeca" class="profile-pic">
+      <img src="![Imagen de WhatsApp 2024-12-06 a las 19 26 54_d3ea3a97](https://github.com/user-attachments/assets/c9460423-74b3-4df5-b435-39f4c69a65ce)
+" alt="Foto de Rebeca" class="profile-pic">
       <h1>Rebeca [Camacho Rdz]</h1>
-      <p>Estudiante | Ingeniero en Desarrollo Software | s</p>
+      <p>Estudiante | Ingeniero en Desarrollo Software | </p>
     </div>
   </header>
   <nav>
