@@ -10,8 +10,8 @@
   <header>
     <div class="header-container">
       <img src="img/foto_perfil.jpg" alt="Foto de Rebeca" class="profile-pic">
-      <h1>Rebeca [Tu Apellido]</h1>
-      <p>Estudiante | Desarrolladora en R | Amante de las Matemáticas</p>
+      <h1>Rebeca [Camacho Rdz]</h1>
+      <p>Estudiante | Ingeniero en Desarrollo Software | s</p>
     </div>
   </header>
   <nav>
@@ -25,14 +25,14 @@
   <main>
     <section id="sobre-mi">
       <h2>Sobre mí</h2>
-      <p>Soy una estudiante apasionada por la programación, con experiencia en distribuciones de probabilidad usando R Studio. Disfruto aprender y enfrentar nuevos retos.</p>
+      <p>Soy una estudiante que esta aprendiendo programación,  Disfruto aprender y enfrentar nuevos retos.</p>
     </section>
     <section id="habilidades">
       <h2>Habilidades</h2>
       <ul>
-        <li>Programación en R</li>
-        <li>HTML, CSS</li>
-        <li>Distribuciones de Probabilidad (Binomial, Poisson)</li>
+        <li>Cursando el tercer semestre</li>
+        <li>Aprendiendo HTML, Python, Java, R</li>
+        <li>Adaptabilidad</li>
         <li>Trabajo en equipo</li>
         <li>Organización y resolución de problemas</li>
       </ul>
@@ -40,21 +40,22 @@
     <section id="proyectos">
       <h2>Proyectos</h2>
       <div class="project">
-        <h3>Simulaciones de Distribuciones de Probabilidad</h3>
-        <p>Implementé cálculos en R Studio para evaluar defectos en productos específicos usando distribuciones de Poisson y Binomial.</p>
+        <h3></h3>
+        <p>sistema de gestión de inventario que permite a una empresa
+administrar sus productos mediante una interfaz de texto hecho en Python.</p>
         <a href="https://github.com/tu-usuario/proyecto-rstudio" target="_blank">Ver en GitHub</a>
       </div>
       <div class="project">
         <h3>Diseño Web</h3>
-        <p>Creé un sitio web interactivo para mostrar mi perfil y proyectos personales.</p>
+        <p>En proceso.</p>
         <a href="https://github.com/tu-usuario/cv-web" target="_blank">Ver en GitHub</a>
       </div>
     </section>
     <section id="contacto">
       <h2>Contacto</h2>
-      <p>Email: <a href="mailto:rebeca@example.com">rebeca@example.com</a></p>
+      <p>Email: <a href="mailto:rebecacamachordz45@outlook.com">rebecacamachordz45@outlook.com</a></p>
       <p>GitHub: <a href="https://github.com/tu-usuario" target="_blank">github.com/tu-usuario</a></p>
-      <p>LinkedIn: <a href="https://linkedin.com/in/tu-usuario" target="_blank">linkedin.com/in/tu-usuario</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/rebeca-camacho-b1533432b/" target="_blank">linkedin.com/rebeca-camacho</a></p>
     </section>
   </main>
   <footer>
