@@ -11,7 +11,7 @@
     <div class="header-container">
       <img src="![Imagen de WhatsApp 2024-12-06 a las 19 26 54_d3ea3a97](https://github.com/user-attachments/assets/c9460423-74b3-4df5-b435-39f4c69a65ce)
 " alt="Foto de Rebeca" class="profile-pic">
-      <h1>Rebeca [Camacho Rdz]</h1>
+      <h1>Rebeca Camacho Rdz</h1>
       <p>Estudiante | Ingeniero en Desarrollo Software | </p>
     </div>
   </header>
