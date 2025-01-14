@@ -39,7 +39,7 @@
       <h2>Habilidades</h2>
       <ul>
         <li>Cursando el tercer semestre</li>
-        <li>Aprendiendo HTML, Python, Java, R</li>
+        <li>Aprendiendo HTML, Python, Java, R, actualmente con HTML, CSS</li>
         <li>Adaptabilidad</li>
         <li>Trabajo en equipo</li>
         <li>Organización y resolución de problemas</li>
